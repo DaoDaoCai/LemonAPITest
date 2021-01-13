@@ -1,0 +1,36 @@
+# 1、yaml格式的文件，也是使用#来添加注释
+# 2、每一个区域下的选项缩进要一致，推荐缩进两个空格
+excel:
+  cases_path: cases.xlsx
+  result_col: 8
+  actual_col: 7
+msg:
+  success_result: Pass
+  fail_result: Fail
+
+log:
+  logname: my_log
+  logger_level: DEBUG
+  formatter: '%(asctime)s - [%(filename)s-->line:%(lineno)d] - %(levelname)s: %(message)s'
+  stream_level: DEBUG
+  logfile_name: test.log
+  logfile_level: DEBUG
+
+report:
+  name: report
+  title: "测试报告"
+  description: "第一份测试报告"
+  tester: "小白"
+
+mysql:
+  host: 'api.lemonban.com'
+  user: 'future'
+  password: '123456'
+  db: 'futureloan'
+  port: 3306
+  select_user_sql: "select * from member where mobile_phone = %s;"
+  select_userid_sql: "select id from member where mobile_phone = %s;"
+api:
+  version: {"X-Lemonban-Media-Type": "lemonban.v2"}
+  prefix: "http://api.lemonban.com/futureloan"
+

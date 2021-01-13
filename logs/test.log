@@ -1,0 +1,1928 @@
+2019-11-20 20:44:48,582 - [test_cases.py-->line:46] - INFO: 用例:注册成功,通过
+2019-11-20 20:44:48,788 - [test_cases.py-->line:46] - INFO: 用例:账户已存在,通过
+2019-11-20 20:44:49,017 - [test_cases.py-->line:46] - INFO: 用例:密码不一致,通过
+2019-11-20 20:44:49,285 - [test_cases.py-->line:46] - INFO: 用例:帐号小于6位,通过
+2019-11-20 20:44:49,478 - [test_cases.py-->line:46] - INFO: 用例:帐号大于18位,通过
+2019-11-20 20:44:49,677 - [test_cases.py-->line:46] - INFO: 用例:密码小于6位,通过
+2019-11-20 20:44:49,862 - [test_cases.py-->line:46] - INFO: 用例:密码大于18位,通过
+2019-11-20 20:49:36,520 - [test_cases.py-->line:46] - INFO: 用例:注册成功,通过
+2019-11-20 20:49:37,304 - [test_cases.py-->line:46] - INFO: 用例:账户已存在,通过
+2019-11-20 20:49:38,200 - [test_cases.py-->line:46] - INFO: 用例:密码不一致,通过
+2019-11-20 20:49:38,895 - [test_cases.py-->line:46] - INFO: 用例:帐号小于6位,通过
+2019-11-20 20:49:39,685 - [test_cases.py-->line:46] - INFO: 用例:帐号大于18位,通过
+2019-11-20 20:49:40,397 - [test_cases.py-->line:46] - INFO: 用例:密码小于6位,通过
+2019-11-20 20:49:41,116 - [test_cases.py-->line:46] - INFO: 用例:密码大于18位,通过
+2019-11-20 20:50:25,836 - [test_cases.py-->line:46] - INFO: 用例:注册成功,通过
+2019-11-20 20:50:26,019 - [test_cases.py-->line:46] - INFO: 用例:账户已存在,通过
+2019-11-20 20:50:26,189 - [test_cases.py-->line:46] - INFO: 用例:密码不一致,通过
+2019-11-20 20:50:26,348 - [test_cases.py-->line:46] - INFO: 用例:帐号小于6位,通过
+2019-11-20 20:50:26,598 - [test_cases.py-->line:46] - INFO: 用例:帐号大于18位,通过
+2019-11-20 20:50:26,890 - [test_cases.py-->line:46] - INFO: 用例:密码小于6位,通过
+2019-11-20 20:50:27,127 - [test_cases.py-->line:46] - INFO: 用例:密码大于18位,通过
+2019-11-22 15:16:53,618 - [test_01_register.py-->line:82] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-22 15:16:54,135 - [test_01_register.py-->line:82] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-22 15:16:54,853 - [test_01_register.py-->line:82] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-22 15:16:55,383 - [test_01_register.py-->line:82] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-22 15:16:55,801 - [test_01_register.py-->line:82] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-22 15:16:56,144 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-22 15:16:56,541 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-22 15:16:57,086 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-22 15:16:57,694 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-22 15:27:20,424 - [test_01_register.py-->line:82] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-22 15:27:32,552 - [test_01_register.py-->line:82] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-22 15:27:33,534 - [test_01_register.py-->line:82] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-22 15:27:34,532 - [test_01_register.py-->line:82] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-22 15:27:35,291 - [test_01_register.py-->line:82] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-22 15:27:36,080 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-22 15:27:36,974 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-22 15:27:38,250 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-22 15:27:39,284 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-22 15:32:15,747 - [test_01_register.py-->line:82] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-22 15:32:16,375 - [test_01_register.py-->line:82] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-22 15:32:16,880 - [test_01_register.py-->line:82] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-22 15:32:17,491 - [test_01_register.py-->line:82] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-22 15:32:17,848 - [test_01_register.py-->line:82] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-22 15:32:18,338 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-22 15:32:18,792 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-22 15:32:19,380 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-22 15:32:19,974 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-22 15:32:20,434 - [test_01_register.py-->line:82] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-11-22 16:12:41,961 - [test_01_register.py-->line:82] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-22 16:12:42,582 - [test_01_register.py-->line:82] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-22 16:12:43,345 - [test_01_register.py-->line:82] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-22 16:12:44,076 - [test_01_register.py-->line:82] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-22 16:12:44,618 - [test_01_register.py-->line:82] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-22 16:12:45,082 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-22 16:12:45,521 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-22 16:12:46,231 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-22 16:12:46,881 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-22 16:12:47,480 - [test_01_register.py-->line:82] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-11-22 16:14:24,707 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-22 16:14:25,316 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-22 16:14:26,056 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-22 16:14:26,854 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-22 16:14:27,345 - [test_01_register.py-->line:82] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-11-22 16:14:38,259 - [test_01_register.py-->line:82] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-22 16:14:39,043 - [test_01_register.py-->line:82] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-22 16:14:39,816 - [test_01_register.py-->line:82] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-22 16:14:40,566 - [test_01_register.py-->line:82] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-22 16:14:41,141 - [test_01_register.py-->line:82] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-22 16:14:41,694 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-22 16:14:42,295 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-22 16:14:42,977 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-22 16:14:43,914 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-22 16:14:44,461 - [test_01_register.py-->line:82] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-11-27 15:33:52,978 - [test_01_register.py-->line:82] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-27 15:33:53,622 - [test_01_register.py-->line:82] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-27 15:33:54,278 - [test_01_register.py-->line:82] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-27 15:33:55,274 - [test_01_register.py-->line:82] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-27 15:33:55,877 - [test_01_register.py-->line:82] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-27 15:33:56,385 - [test_01_register.py-->line:82] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-27 15:33:56,878 - [test_01_register.py-->line:82] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-27 15:33:57,472 - [test_01_register.py-->line:82] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-27 15:33:58,095 - [test_01_register.py-->line:82] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-27 15:33:58,515 - [test_01_register.py-->line:82] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-11-27 15:45:39,787 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-11-27 15:45:40,422 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-11-27 15:45:40,964 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-11-27 15:45:41,512 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-11-27 15:45:41,839 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-11-27 15:45:42,267 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-11-27 15:45:42,695 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-11-27 15:45:43,321 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-11-27 15:45:43,861 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-11-27 15:45:44,253 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-11-27 15:45:44,616 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-11-27 15:45:45,030 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-11-27 15:45:45,403 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-11-27 15:45:45,767 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-11-27 15:45:46,109 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-11-30 11:16:54,719 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-11-30 11:16:55,234 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-11-30 11:16:59,059 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-11-30 11:16:59,768 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-11-30 11:17:00,433 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-11-30 11:17:01,200 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-11-30 11:17:02,072 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-11-30 11:17:02,995 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为Mg==|MA==|5Lya5ZGYaWTkuLrlrZfnrKbkuLI=
+
+2019-11-30 11:17:03,587 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-11-30 11:17:04,184 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为Mg==|MA==|5YWF5YC86YeR6aKd5Li6MA==
+
+2019-11-30 11:17:04,666 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-11-30 11:17:05,255 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为MQ==|Mg==|5YWF5YC86YeR6aKd5Li656m6
+
+2019-11-30 11:17:05,720 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-11-30 11:17:06,343 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-11-30 11:17:06,833 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-11-30 11:22:04,393 - [test_03_recharge.py-->line:112] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-11-30 11:24:14,092 - [test_03_recharge.py-->line:112] - INFO: 正常登录,执行的结果为：Pass
+
+2019-11-30 11:24:17,097 - [test_03_recharge.py-->line:112] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-11-30 11:24:18,508 - [test_03_recharge.py-->line:112] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-11-30 11:24:20,019 - [test_03_recharge.py-->line:112] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-11-30 11:24:22,023 - [test_03_recharge.py-->line:112] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-11-30 11:24:23,349 - [test_03_recharge.py-->line:112] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-11-30 11:24:24,884 - [test_03_recharge.py-->line:101] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为Mg==|MA==|5Lya5ZGYaWTkuLrlrZfnrKbkuLI=
+
+2019-11-30 11:24:26,136 - [test_03_recharge.py-->line:112] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-11-30 11:24:27,307 - [test_03_recharge.py-->line:101] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为Mg==|MA==|5YWF5YC86YeR6aKd5Li6MA==
+
+2019-11-30 11:24:28,605 - [test_03_recharge.py-->line:112] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-11-30 11:24:30,288 - [test_03_recharge.py-->line:101] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为MQ==|Mg==|5YWF5YC86YeR6aKd5Li656m6
+
+2019-11-30 11:24:31,527 - [test_03_recharge.py-->line:112] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-11-30 11:24:33,226 - [test_03_recharge.py-->line:112] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-11-30 11:24:34,374 - [test_03_recharge.py-->line:112] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-11-30 11:35:22,830 - [test_03_recharge.py-->line:112] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-11-30 11:35:23,427 - [test_03_recharge.py-->line:112] - INFO: 正常登录,执行的结果为：Pass
+
+2019-11-30 11:35:25,796 - [test_03_recharge.py-->line:112] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-11-30 11:35:26,422 - [test_03_recharge.py-->line:112] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-11-30 11:35:27,047 - [test_03_recharge.py-->line:112] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-11-30 11:35:27,711 - [test_03_recharge.py-->line:112] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-11-30 11:35:28,203 - [test_03_recharge.py-->line:112] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-11-30 11:35:28,743 - [test_03_recharge.py-->line:101] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为Mg==|MA==|5Lya5ZGYaWTkuLrlrZfnrKbkuLI=
+
+2019-11-30 11:35:29,335 - [test_03_recharge.py-->line:112] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-11-30 11:35:30,090 - [test_03_recharge.py-->line:101] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为Mg==|MA==|5YWF5YC86YeR6aKd5Li6MA==
+
+2019-11-30 11:35:30,581 - [test_03_recharge.py-->line:112] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-11-30 11:35:31,035 - [test_03_recharge.py-->line:101] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为MQ==|Mg==|5YWF5YC86YeR6aKd5Li656m6
+
+2019-11-30 11:35:31,736 - [test_03_recharge.py-->line:112] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-11-30 11:35:32,324 - [test_03_recharge.py-->line:112] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-11-30 11:35:32,771 - [test_03_recharge.py-->line:112] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-11-30 11:38:06,031 - [test_03_recharge.py-->line:112] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-11-30 11:38:06,621 - [test_03_recharge.py-->line:112] - INFO: 正常登录,执行的结果为：Pass
+
+2019-11-30 11:38:07,217 - [test_03_recharge.py-->line:112] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-11-30 11:38:07,892 - [test_03_recharge.py-->line:112] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-11-30 11:38:08,473 - [test_03_recharge.py-->line:112] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-11-30 11:38:09,119 - [test_03_recharge.py-->line:112] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-11-30 11:38:09,687 - [test_03_recharge.py-->line:112] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-11-30 11:38:10,383 - [test_03_recharge.py-->line:101] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为MTAwMQ==|MTAwNw==|5Lya5ZGYaWTkuI3lrZjlnKg=
+
+2019-11-30 11:38:10,897 - [test_03_recharge.py-->line:101] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为Mg==|MA==|5Lya5ZGYaWTkuLrlrZfnrKbkuLI=
+
+2019-11-30 11:38:11,478 - [test_03_recharge.py-->line:112] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-11-30 11:38:12,042 - [test_03_recharge.py-->line:101] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为Mg==|MA==|5YWF5YC86YeR6aKd5Li6MA==
+
+2019-11-30 11:38:12,768 - [test_03_recharge.py-->line:112] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-11-30 11:38:13,315 - [test_03_recharge.py-->line:101] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为MQ==|Mg==|5YWF5YC86YeR6aKd5Li656m6
+
+2019-11-30 11:38:14,112 - [test_03_recharge.py-->line:112] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-11-30 11:38:14,821 - [test_03_recharge.py-->line:112] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-11-30 11:38:15,454 - [test_03_recharge.py-->line:112] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-02 14:00:18,454 - [test_04_add.py-->line:78] - ERROR: 借款人id为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrnqbo=
+
+2019-12-02 14:00:19,054 - [test_04_add.py-->line:78] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrlsI/mlbA=
+
+2019-12-02 14:00:19,809 - [test_04_add.py-->line:78] - ERROR: 借款人id不存在,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuI3lrZjlnKg=
+
+2019-12-02 14:01:08,581 - [test_04_add.py-->line:97] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 14:01:09,093 - [test_04_add.py-->line:78] - ERROR: 正常登录,执行的结果为：Fail
+具体异常为MA==|MTAwMQ==|5q2j5bi455m75b2V
+
+2019-12-02 14:01:09,688 - [test_04_add.py-->line:78] - ERROR: 加标成功,执行的结果为：Fail
+具体异常为MA==|MTAwMw==|5Yqg5qCH5oiQ5Yqf
+
+2019-12-02 14:01:10,258 - [test_04_add.py-->line:78] - ERROR: 借款人id为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrnqbo=
+
+2019-12-02 14:01:10,724 - [test_04_add.py-->line:78] - ERROR: 标题为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5qCH6aKY5Li656m6
+
+2019-12-02 14:01:11,236 - [test_04_add.py-->line:78] - ERROR: 借款金额为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+6YeR6aKd5Li656m6
+
+2019-12-02 14:01:11,727 - [test_04_add.py-->line:78] - ERROR: 年利率为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5bm05Yip546H5Li656m6
+
+2019-12-02 14:01:12,311 - [test_04_add.py-->line:78] - ERROR: 借款期限为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5pyf6ZmQ5Li656m6
+
+2019-12-02 14:01:12,843 - [test_04_add.py-->line:78] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5pyf6ZmQ5Li65a2X56ym5Liy
+
+2019-12-02 14:01:13,551 - [test_04_add.py-->line:78] - ERROR: 借款期限类型为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5pyf6ZmQ57G75Z6L5Li656m6
+
+2019-12-02 14:01:14,301 - [test_04_add.py-->line:78] - ERROR: 竞标天数为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|56ue5qCH5aSp5pWw5Li656m6
+
+2019-12-02 14:01:15,157 - [test_04_add.py-->line:78] - ERROR: 借款人id为负数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrotJ/mlbA=
+
+2019-12-02 14:01:15,964 - [test_04_add.py-->line:78] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrlsI/mlbA=
+
+2019-12-02 14:01:16,902 - [test_04_add.py-->line:78] - ERROR: 借款人id不存在,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuI3lrZjlnKg=
+
+2019-12-02 14:01:17,569 - [test_04_add.py-->line:78] - ERROR: 借款金额为负数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+6YeR6aKd5Li66LSf5pWw
+
+2019-12-02 14:01:18,213 - [test_04_add.py-->line:78] - ERROR: 借款金额为小数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+6YeR6aKd5Li65bCP5pWw
+
+2019-12-02 14:15:47,305 - [test_04_add.py-->line:97] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 14:15:47,870 - [test_04_add.py-->line:78] - ERROR: 正常登录,执行的结果为：Fail
+具体异常为MA==|MTAwMQ==|5q2j5bi455m75b2V
+
+2019-12-02 14:15:48,443 - [test_04_add.py-->line:78] - ERROR: 加标成功,执行的结果为：Fail
+具体异常为MA==|MTAwMw==|5Yqg5qCH5oiQ5Yqf
+
+2019-12-02 14:15:48,926 - [test_04_add.py-->line:78] - ERROR: 借款人id为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrnqbo=
+
+2019-12-02 14:15:49,563 - [test_04_add.py-->line:78] - ERROR: 标题为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5qCH6aKY5Li656m6
+
+2019-12-02 14:15:50,003 - [test_04_add.py-->line:78] - ERROR: 借款金额为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+6YeR6aKd5Li656m6
+
+2019-12-02 14:15:50,506 - [test_04_add.py-->line:78] - ERROR: 年利率为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5bm05Yip546H5Li656m6
+
+2019-12-02 14:15:50,949 - [test_04_add.py-->line:78] - ERROR: 借款期限为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5pyf6ZmQ5Li656m6
+
+2019-12-02 14:15:51,555 - [test_04_add.py-->line:78] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5pyf6ZmQ5Li65a2X56ym5Liy
+
+2019-12-02 14:15:52,062 - [test_04_add.py-->line:78] - ERROR: 借款期限类型为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|5YCf5qy+5pyf6ZmQ57G75Z6L5Li656m6
+
+2019-12-02 14:15:52,627 - [test_04_add.py-->line:78] - ERROR: 竞标天数为空,执行的结果为：Fail
+具体异常为MQ==|MTAwMw==|56ue5qCH5aSp5pWw5Li656m6
+
+2019-12-02 14:15:53,075 - [test_04_add.py-->line:78] - ERROR: 借款人id为负数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrotJ/mlbA=
+
+2019-12-02 14:15:53,574 - [test_04_add.py-->line:78] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuLrlsI/mlbA=
+
+2019-12-02 14:15:54,251 - [test_04_add.py-->line:78] - ERROR: 借款人id不存在,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+5Lq6aWTkuI3lrZjlnKg=
+
+2019-12-02 14:15:54,702 - [test_04_add.py-->line:78] - ERROR: 借款金额为负数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+6YeR6aKd5Li66LSf5pWw
+
+2019-12-02 14:15:55,235 - [test_04_add.py-->line:78] - ERROR: 借款金额为小数,执行的结果为：Fail
+具体异常为Mg==|MTAwMw==|5YCf5qy+6YeR6aKd5Li65bCP5pWw
+
+2019-12-02 14:40:25,158 - [test_04_add.py-->line:97] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 14:41:10,986 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-02 14:41:11,732 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-02 14:41:12,375 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-02 14:41:13,042 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-02 14:41:13,528 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-02 14:41:14,089 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-02 14:41:14,693 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-02 14:41:15,339 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-02 14:41:16,032 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-02 14:41:16,589 - [test_01_register.py-->line:70] - ERROR: 手机号已注册,执行的结果为：Fail
+具体异常为2 != 0 : 手机号已注册
+
+2019-12-02 14:41:17,128 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 14:41:17,626 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-02 14:41:18,175 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-02 14:41:18,660 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-02 14:41:19,168 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-02 14:41:19,843 - [test_03_recharge.py-->line:113] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-02 14:41:20,324 - [test_03_recharge.py-->line:113] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 14:41:21,088 - [test_03_recharge.py-->line:113] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-02 14:41:21,726 - [test_03_recharge.py-->line:102] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-02 14:41:22,294 - [test_03_recharge.py-->line:102] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 1007 : 会员id为字符串
+
+2019-12-02 14:41:22,821 - [test_03_recharge.py-->line:113] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-02 14:41:23,311 - [test_03_recharge.py-->line:102] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 1007 : 充值金额为0
+
+2019-12-02 14:41:23,877 - [test_03_recharge.py-->line:113] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-02 14:41:24,360 - [test_03_recharge.py-->line:102] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-02 14:41:24,903 - [test_03_recharge.py-->line:113] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-02 14:41:25,518 - [test_03_recharge.py-->line:113] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-02 14:41:26,051 - [test_03_recharge.py-->line:113] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-02 14:41:26,701 - [test_04_add.py-->line:97] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 14:41:27,251 - [test_04_add.py-->line:78] - ERROR: 正常登录,执行的结果为：Fail
+具体异常为0 != 1001 : 正常登录
+
+2019-12-02 14:41:27,724 - [test_04_add.py-->line:78] - ERROR: 加标成功,执行的结果为：Fail
+具体异常为0 != 1003 : 加标成功
+
+2019-12-02 14:41:28,275 - [test_04_add.py-->line:78] - ERROR: 借款人id为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款人id为空
+
+2019-12-02 14:41:28,779 - [test_04_add.py-->line:78] - ERROR: 标题为空,执行的结果为：Fail
+具体异常为1 != 1003 : 标题为空
+
+2019-12-02 14:41:29,326 - [test_04_add.py-->line:78] - ERROR: 借款金额为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款金额为空
+
+2019-12-02 14:41:29,829 - [test_04_add.py-->line:78] - ERROR: 年利率为空,执行的结果为：Fail
+具体异常为1 != 1003 : 年利率为空
+
+2019-12-02 14:41:30,370 - [test_04_add.py-->line:78] - ERROR: 借款期限为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款期限为空
+
+2019-12-02 14:41:30,938 - [test_04_add.py-->line:78] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 1003 : 借款期限为字符串
+
+2019-12-02 14:41:31,464 - [test_04_add.py-->line:78] - ERROR: 借款期限类型为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款期限类型为空
+
+2019-12-02 14:41:32,007 - [test_04_add.py-->line:78] - ERROR: 竞标天数为空,执行的结果为：Fail
+具体异常为1 != 1003 : 竞标天数为空
+
+2019-12-02 14:41:32,495 - [test_04_add.py-->line:78] - ERROR: 借款人id为负数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款人id为负数
+
+2019-12-02 14:41:33,048 - [test_04_add.py-->line:78] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款人id为小数
+
+2019-12-02 14:41:33,665 - [test_04_add.py-->line:78] - ERROR: 借款人id不存在,执行的结果为：Fail
+具体异常为2 != 1003 : 借款人id不存在
+
+2019-12-02 14:41:34,201 - [test_04_add.py-->line:78] - ERROR: 借款金额为负数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款金额为负数
+
+2019-12-02 14:41:34,665 - [test_04_add.py-->line:78] - ERROR: 借款金额为小数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款金额为小数
+
+2019-12-02 14:54:12,566 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 14:54:13,234 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 14:54:13,973 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-02 14:54:14,593 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-02 14:54:15,343 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-02 14:54:15,932 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-02 14:54:16,719 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-02 14:54:17,541 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-02 14:54:18,377 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为Mg==|MA==|5YCf5qy+5pyf6ZmQ5Li65a2X56ym5Liy
+
+2019-12-02 14:54:19,091 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-02 14:54:19,793 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-02 14:54:20,324 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-02 14:54:20,859 - [test_04_add.py-->line:77] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为Mg==|MTAwNw==|5YCf5qy+5Lq6aWTkuLrlsI/mlbA=
+
+2019-12-02 14:54:21,482 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-02 14:54:22,061 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-02 14:54:22,621 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-02 14:55:21,802 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-02 14:55:22,706 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-02 14:55:23,489 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-02 14:55:24,270 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-02 14:55:24,963 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-02 14:55:25,673 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-02 14:55:26,238 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-02 14:55:26,938 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-02 14:55:27,782 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-02 14:55:28,327 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-02 14:55:28,871 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 14:55:29,379 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-02 14:55:29,944 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-02 14:55:30,669 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-02 14:55:31,187 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-02 14:55:31,828 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-02 14:55:32,279 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 14:55:32,928 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-02 14:55:33,784 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-02 14:55:34,395 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-02 14:55:35,008 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-02 14:55:35,537 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-02 14:55:36,187 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-02 14:55:36,775 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-02 14:55:37,263 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-02 14:55:37,805 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-02 14:55:38,363 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-02 14:55:38,914 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-02 14:55:39,360 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-02 14:55:39,885 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-02 14:55:40,319 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-02 14:55:40,941 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 14:55:41,389 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 14:55:41,888 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-02 14:55:42,330 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-02 14:55:42,904 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-02 14:55:43,377 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-02 14:55:43,905 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-02 14:55:44,441 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-02 14:55:44,958 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-02 14:55:45,402 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-02 14:55:45,913 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-02 14:55:46,371 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-02 14:55:46,875 - [test_04_add.py-->line:77] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为2 != 1007 : 借款人id为小数
+
+2019-12-02 14:55:47,472 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-02 14:55:47,968 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-02 14:55:48,551 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-02 16:17:12,638 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-02 16:17:13,208 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-02 16:17:13,766 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-02 16:17:14,418 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-02 16:17:14,934 - [test_05_invest.py-->line:79] - ERROR: 投资人正常投资,执行的结果为：Fail
+具体异常为MA==|Mg==|5oqV6LWE5Lq65q2j5bi45oqV6LWE
+
+2019-12-02 16:17:15,517 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-02 16:17:16,130 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-02 16:17:16,721 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-02 16:17:17,265 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-02 16:17:17,836 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-02 16:17:18,413 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-02 16:17:19,015 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-02 16:17:19,635 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-02 16:17:20,150 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-02 16:17:20,968 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-02 16:17:21,733 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-02 16:17:22,599 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-02 16:24:54,647 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-02 16:24:55,325 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-02 16:24:56,046 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-02 16:24:56,876 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-02 16:24:57,405 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-02 16:24:58,021 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-02 16:24:58,541 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-02 16:24:59,260 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-02 16:25:00,001 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-02 16:25:00,538 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-02 16:25:01,145 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 16:25:01,671 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-02 16:25:02,308 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-02 16:25:03,016 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-02 16:25:03,642 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-02 16:25:04,300 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-02 16:25:04,779 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 16:25:05,404 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-02 16:25:06,052 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-02 16:25:06,635 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-02 16:25:07,317 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-02 16:25:07,783 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-02 16:25:08,430 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-02 16:25:08,983 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-02 16:25:09,467 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-02 16:25:10,030 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-02 16:25:10,543 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-02 16:25:11,068 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-02 16:25:11,610 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-02 16:25:12,181 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-02 16:25:12,642 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-02 16:25:13,324 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-02 16:25:13,889 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-02 16:25:14,420 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-02 16:25:14,895 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-02 16:25:15,420 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-02 16:25:15,909 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-02 16:25:16,451 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-02 16:25:16,981 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-02 16:25:17,509 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-02 16:25:17,981 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-02 16:25:18,482 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-02 16:25:19,096 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-02 16:25:19,589 - [test_04_add.py-->line:77] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为2 != 1007 : 借款人id为小数
+
+2019-12-02 16:25:20,291 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-02 16:25:20,773 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-02 16:25:21,298 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-02 16:25:21,922 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-02 16:25:22,525 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-02 16:25:23,000 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-02 16:25:23,536 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-02 16:25:24,120 - [test_05_invest.py-->line:79] - ERROR: 投资人正常投资,执行的结果为：Fail
+具体异常为0 != 2 : 投资人正常投资
+
+2019-12-02 16:25:24,747 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-02 16:25:25,302 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-02 16:25:25,860 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-02 16:25:26,496 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-02 16:25:27,026 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-02 16:25:27,568 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-02 16:25:28,059 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-02 16:25:28,603 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-02 16:25:29,123 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-02 16:25:29,806 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-02 16:25:30,515 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-02 16:25:31,061 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-03 09:07:21,921 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-03 09:07:22,657 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-03 09:07:23,543 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-03 09:07:24,310 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-03 09:07:24,871 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-03 09:07:25,445 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-03 09:07:25,981 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-03 09:07:26,632 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-03 09:07:27,321 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-03 09:07:27,825 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-03 09:07:28,429 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-03 09:07:28,989 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-03 09:07:29,591 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-03 09:07:30,183 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-03 09:07:30,693 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-03 09:07:31,453 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-03 09:07:31,965 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-03 09:07:32,654 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-03 09:07:33,346 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-03 09:07:33,914 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 1007 : 会员id为字符串
+
+2019-12-03 09:07:34,541 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-03 09:07:35,073 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 1007 : 充值金额为0
+
+2019-12-03 09:07:35,607 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-03 09:07:36,103 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-03 09:07:36,627 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-03 09:07:37,101 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-03 09:07:37,623 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-03 09:07:38,274 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-03 09:07:38,841 - [test_04_add.py-->line:77] - ERROR: 正常登录,执行的结果为：Fail
+具体异常为0 != 1001 : 正常登录
+
+2019-12-03 09:07:39,370 - [test_04_add.py-->line:77] - ERROR: 加标成功,执行的结果为：Fail
+具体异常为0 != 1003 : 加标成功
+
+2019-12-03 09:07:39,849 - [test_04_add.py-->line:77] - ERROR: 借款人id为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款人id为空
+
+2019-12-03 09:07:40,385 - [test_04_add.py-->line:77] - ERROR: 标题为空,执行的结果为：Fail
+具体异常为1 != 1003 : 标题为空
+
+2019-12-03 09:07:40,870 - [test_04_add.py-->line:77] - ERROR: 借款金额为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款金额为空
+
+2019-12-03 09:07:41,440 - [test_04_add.py-->line:77] - ERROR: 年利率为空,执行的结果为：Fail
+具体异常为1 != 1003 : 年利率为空
+
+2019-12-03 09:07:41,921 - [test_04_add.py-->line:77] - ERROR: 借款期限为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款期限为空
+
+2019-12-03 09:07:42,474 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 1003 : 借款期限为字符串
+
+2019-12-03 09:07:42,955 - [test_04_add.py-->line:77] - ERROR: 借款期限类型为空,执行的结果为：Fail
+具体异常为1 != 1003 : 借款期限类型为空
+
+2019-12-03 09:07:43,519 - [test_04_add.py-->line:77] - ERROR: 竞标天数为空,执行的结果为：Fail
+具体异常为1 != 1003 : 竞标天数为空
+
+2019-12-03 09:07:44,030 - [test_04_add.py-->line:77] - ERROR: 借款人id为负数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款人id为负数
+
+2019-12-03 09:07:44,643 - [test_04_add.py-->line:77] - ERROR: 借款人id为小数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款人id为小数
+
+2019-12-03 09:07:45,406 - [test_04_add.py-->line:77] - ERROR: 借款人id不存在,执行的结果为：Fail
+具体异常为2 != 1003 : 借款人id不存在
+
+2019-12-03 09:07:45,925 - [test_04_add.py-->line:77] - ERROR: 借款金额为负数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款金额为负数
+
+2019-12-03 09:07:46,543 - [test_04_add.py-->line:77] - ERROR: 借款金额为小数,执行的结果为：Fail
+具体异常为2 != 1003 : 借款金额为小数
+
+2019-12-03 09:07:47,180 - [test_05_invest.py-->line:79] - ERROR: 借款人正常登录,执行的结果为：Fail
+具体异常为0 != 1001 : 借款人正常登录
+
+2019-12-03 09:07:47,812 - [test_05_invest.py-->line:79] - ERROR: 借款人加标,执行的结果为：Fail
+具体异常为0 != 1003 : 借款人加标
+
+2019-12-03 09:07:48,630 - [test_05_invest.py-->line:79] - ERROR: 管理员正常登录,执行的结果为：Fail
+具体异常为0 != 1001 : 管理员正常登录
+
+2019-12-03 09:07:49,147 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-03 09:07:49,710 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-03 09:07:50,617 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-03 09:12:24,772 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-03 09:12:25,471 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-03 09:12:26,160 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-03 09:12:26,905 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-03 09:12:27,489 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-03 09:12:28,030 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-03 09:12:28,636 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-03 09:12:29,334 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-03 09:12:30,099 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-03 09:12:30,673 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-03 09:12:31,173 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-03 09:12:31,725 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-03 09:12:32,272 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-03 09:12:32,826 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-03 09:12:33,439 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-03 09:12:34,144 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-03 09:12:34,658 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-03 09:12:35,261 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-03 09:12:35,920 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-03 09:12:36,526 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-03 09:12:37,158 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-03 09:12:37,637 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-03 09:12:38,287 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-03 09:12:38,852 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-03 09:12:39,366 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-03 09:12:39,938 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-03 09:12:40,513 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-03 09:12:41,046 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-03 09:12:41,569 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-03 09:12:42,088 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-03 09:12:42,574 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-03 09:12:43,212 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-03 09:12:43,674 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-03 09:12:44,237 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-03 09:12:44,733 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-03 09:12:45,244 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-03 09:12:45,702 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-03 09:12:46,238 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-03 09:12:46,716 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-03 09:12:47,264 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-03 09:12:47,739 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-03 09:12:48,249 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-03 09:12:48,796 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-03 09:12:49,372 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-03 09:12:50,070 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-03 09:12:50,589 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-03 09:12:51,232 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-03 09:12:51,852 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-03 09:12:52,428 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-03 09:12:52,966 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-03 09:12:53,472 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-03 09:12:54,046 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-03 09:12:54,551 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-03 09:12:55,097 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-03 09:12:55,621 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-03 09:12:56,186 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-03 09:12:56,755 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-03 09:12:57,320 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-03 09:12:57,806 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-03 09:12:58,412 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-03 09:12:58,926 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-03 09:12:59,515 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-03 09:13:00,222 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-03 09:13:00,875 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-03 09:13:01,524 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-04 10:58:04,245 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-04 10:58:05,219 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-04 10:58:06,563 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-04 10:58:07,589 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-04 10:58:08,484 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-04 10:58:09,318 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-04 10:58:10,070 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-04 10:58:11,374 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-04 10:58:12,713 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-04 10:58:13,864 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-04 10:58:14,665 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 10:58:15,297 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-04 10:58:16,043 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-04 10:58:16,727 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-04 10:58:17,409 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-04 10:58:18,171 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-04 10:58:18,850 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 10:58:19,703 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-04 10:58:20,626 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-04 10:58:21,405 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-04 10:58:22,208 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-04 10:58:23,005 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-04 10:58:23,695 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-04 10:58:24,318 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-04 10:58:25,028 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-04 10:58:25,672 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-04 10:58:26,226 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-04 10:58:26,854 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-04 10:58:27,467 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-04 10:58:28,131 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-04 10:58:28,894 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-04 10:58:29,593 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-04 10:58:30,159 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 10:58:30,838 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-04 10:58:31,613 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-04 10:58:32,279 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-04 10:58:32,980 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-04 10:58:33,563 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-04 10:58:34,202 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-04 10:58:34,851 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-04 10:58:35,669 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-04 10:58:36,277 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-04 10:58:36,980 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-04 10:58:37,527 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-04 10:58:38,427 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-04 10:58:39,056 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-04 10:58:39,630 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-04 10:58:40,563 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-04 10:58:41,544 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-04 10:58:42,245 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-04 10:58:42,922 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-04 10:58:43,601 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-04 10:58:44,434 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-04 10:58:45,128 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-04 10:58:45,902 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-04 10:58:46,725 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-04 10:58:47,502 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-04 10:58:48,257 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-04 10:58:49,038 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-04 10:58:49,777 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-04 10:58:50,670 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-04 10:58:51,387 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-04 10:58:52,266 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-04 10:58:53,100 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-04 10:58:53,710 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-04 11:28:36,595 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-04 11:28:37,967 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-04 11:28:39,774 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-04 11:28:40,792 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-04 11:28:41,737 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-04 11:28:42,923 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-04 11:28:43,904 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-04 11:28:45,251 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-04 11:28:46,279 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-04 11:28:47,260 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-04 11:28:48,426 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:28:49,322 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-04 11:28:50,478 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-04 11:28:51,249 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-04 11:28:52,493 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-04 11:28:53,745 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-04 11:28:54,647 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:28:55,987 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-04 11:28:57,604 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-04 11:28:58,693 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-04 11:28:59,825 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-04 11:29:00,700 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-04 11:29:01,842 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-04 11:29:03,053 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-04 11:29:04,345 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-04 11:29:05,780 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-04 11:29:06,916 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-04 11:29:08,316 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-04 11:29:09,097 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-04 11:29:10,088 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-04 11:29:11,211 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-04 11:29:12,543 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-04 11:29:13,504 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:29:14,473 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-04 11:29:15,585 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-04 11:29:16,842 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-04 11:29:17,928 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-04 11:29:19,546 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-04 11:29:20,464 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-04 11:29:21,827 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-04 11:29:23,039 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-04 11:29:23,941 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-04 11:29:24,925 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-04 11:29:25,773 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-04 11:29:27,363 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-04 11:29:28,648 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-04 11:29:29,705 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-04 11:29:31,435 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-04 11:29:32,501 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-04 11:29:33,208 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-04 11:29:34,234 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-04 11:29:35,138 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-04 11:29:36,079 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-04 11:29:36,877 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-04 11:29:37,599 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-04 11:29:39,002 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-04 11:29:39,968 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-04 11:29:40,638 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-04 11:29:41,553 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-04 11:29:42,567 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-04 11:29:43,334 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-04 11:29:44,046 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-04 11:29:44,840 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-04 11:29:45,540 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-04 11:29:46,467 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-04 11:32:25,918 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-04 11:32:26,813 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-04 11:32:27,692 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-04 11:32:28,596 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-04 11:32:29,293 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-04 11:32:30,448 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-04 11:32:31,446 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-04 11:32:32,208 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-04 11:32:33,319 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-04 11:32:34,463 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-04 11:32:35,811 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:32:36,712 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-04 11:32:37,530 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-04 11:32:38,287 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-04 11:32:39,169 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-04 11:32:40,527 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-04 11:32:41,626 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:32:42,884 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-04 11:32:44,469 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-04 11:32:45,653 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-04 11:32:46,998 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-04 11:32:48,070 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-04 11:32:49,169 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-04 11:32:49,893 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-04 11:32:50,602 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-04 11:32:52,003 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-04 11:32:53,453 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-04 11:32:54,303 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-04 11:32:55,243 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-04 11:32:56,459 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-04 11:32:57,545 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-04 11:32:58,445 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-04 11:33:00,050 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:33:00,772 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-04 11:33:01,466 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-04 11:33:02,133 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-04 11:33:02,848 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-04 11:33:03,465 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-04 11:33:04,219 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-04 11:33:04,947 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-04 11:33:05,625 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-04 11:33:06,478 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-04 11:33:07,811 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-04 11:33:08,441 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-04 11:33:09,440 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-04 11:33:10,264 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-04 11:33:11,111 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-04 11:33:12,285 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-04 11:33:13,418 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-04 11:33:14,348 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-04 11:33:15,208 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-04 11:33:15,976 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-04 11:33:16,920 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-04 11:33:17,892 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-04 11:33:18,872 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-04 11:33:19,705 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-04 11:33:20,505 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-04 11:33:21,234 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-04 11:33:21,989 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-04 11:33:22,714 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-04 11:33:23,425 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-04 11:33:24,244 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-04 11:33:25,171 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-04 11:33:25,984 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-04 11:33:26,744 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-04 11:35:58,393 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-04 11:35:59,167 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-04 11:35:59,863 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-04 11:36:00,516 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-04 11:36:01,166 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-04 11:36:01,854 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-04 11:36:02,622 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-04 11:36:03,499 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-04 11:36:04,288 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-04 11:36:04,968 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-04 11:36:05,584 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:06,251 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-04 11:36:06,851 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-04 11:36:07,788 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-04 11:36:08,499 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-04 11:36:09,387 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-04 11:36:10,061 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:10,890 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-04 11:36:11,717 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-04 11:36:12,782 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-04 11:36:13,972 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-04 11:36:14,656 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-04 11:36:15,530 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-04 11:36:16,192 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-04 11:36:16,901 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-04 11:36:17,730 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-04 11:36:18,630 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-04 11:36:19,422 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-04 11:36:20,379 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-04 11:36:21,149 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-04 11:36:21,891 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-04 11:36:22,772 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-04 11:36:23,537 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:24,199 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-04 11:36:24,868 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-04 11:36:25,730 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-04 11:36:26,475 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-04 11:36:27,147 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-04 11:36:27,790 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-04 11:36:28,447 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-04 11:36:29,241 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-04 11:36:29,848 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-04 11:36:30,552 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-04 11:36:31,119 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-04 11:36:31,838 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-04 11:36:32,420 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-04 11:36:33,019 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-04 11:36:33,770 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:34,597 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-04 11:36:35,205 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:35,872 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-04 11:36:36,435 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:37,031 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-04 11:36:37,659 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-04 11:36:38,310 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-04 11:36:38,959 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-04 11:36:39,774 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-04 11:36:40,361 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-04 11:36:41,081 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-04 11:36:41,735 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-04 11:36:42,292 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-04 11:36:42,921 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-04 11:36:43,569 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-04 11:36:44,267 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-04 11:36:44,887 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-04 11:36:50,644 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-04 11:36:51,373 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-04 11:36:52,060 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-04 11:36:52,678 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-04 11:36:53,273 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-04 11:36:53,928 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-04 11:36:54,505 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-04 11:36:55,182 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-04 11:36:55,873 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-04 11:36:56,531 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-04 11:36:57,190 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:36:57,864 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-04 11:36:58,477 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-04 11:36:59,201 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-04 11:36:59,883 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-04 11:37:00,731 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-04 11:37:01,477 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:37:02,323 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-04 11:37:03,231 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-04 11:37:04,138 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-04 11:37:05,040 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-04 11:37:05,619 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-04 11:37:06,344 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-04 11:37:07,019 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-04 11:37:07,631 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-04 11:37:08,308 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-04 11:37:08,979 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-04 11:37:09,586 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-04 11:37:10,280 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-04 11:37:10,892 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-04 11:37:11,582 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-04 11:37:12,476 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-04 11:37:13,111 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 11:37:13,650 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-04 11:37:14,312 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-04 11:37:14,877 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-04 11:37:15,449 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-04 11:37:15,987 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-04 11:37:16,577 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-04 11:37:17,213 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-04 11:37:17,778 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-04 11:37:18,414 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-04 11:37:19,026 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-04 11:37:19,599 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-04 11:37:20,269 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-04 11:37:20,818 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-04 11:37:21,451 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-04 11:37:22,244 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-04 11:37:22,980 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-04 11:37:23,592 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-04 11:37:24,210 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-04 11:37:24,788 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-04 11:37:25,405 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-04 11:37:25,950 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-04 11:37:26,540 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-04 11:37:27,101 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-04 11:37:27,735 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-04 11:37:28,351 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-04 11:37:28,893 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-04 11:37:29,510 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-04 11:37:30,077 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-04 11:37:30,694 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-04 11:37:31,382 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-04 11:37:32,032 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-04 11:37:32,721 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2019-12-04 18:40:18,356 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2019-12-04 18:40:19,161 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2019-12-04 18:40:20,001 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2019-12-04 18:40:20,849 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2019-12-04 18:40:21,942 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2019-12-04 18:40:22,689 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
+2019-12-04 18:40:23,600 - [test_01_register.py-->line:81] - INFO: 手机号大于11位,执行的结果为：Pass
+
+2019-12-04 18:40:24,426 - [test_01_register.py-->line:81] - INFO: 密码少于8位,执行的结果为：Pass
+
+2019-12-04 18:40:25,361 - [test_01_register.py-->line:81] - INFO: 密码大于16位,执行的结果为：Pass
+
+2019-12-04 18:40:26,099 - [test_01_register.py-->line:81] - INFO: 手机号已注册,执行的结果为：Pass
+
+2019-12-04 18:40:26,920 - [test_02_login.py-->line:82] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 18:40:27,926 - [test_02_login.py-->line:71] - ERROR: 手机号为空,执行的结果为：Fail
+具体异常为1 != 2 : 手机号为空
+
+2019-12-04 18:40:29,101 - [test_02_login.py-->line:71] - ERROR: 密码为空,执行的结果为：Fail
+具体异常为1 != 2 : 密码为空
+
+2019-12-04 18:40:30,138 - [test_02_login.py-->line:82] - INFO: 密码错误,执行的结果为：Pass
+
+2019-12-04 18:40:31,105 - [test_02_login.py-->line:82] - INFO: 手机号错误,执行的结果为：Pass
+
+2019-12-04 18:40:32,758 - [test_03_recharge.py-->line:111] - INFO: 不登录-充值,执行的结果为：Pass
+
+2019-12-04 18:40:34,218 - [test_03_recharge.py-->line:111] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 18:40:35,647 - [test_03_recharge.py-->line:111] - INFO: 充值成功-整数,执行的结果为：Pass
+
+2019-12-04 18:40:36,873 - [test_03_recharge.py-->line:111] - INFO: 充值成功-1位小数,执行的结果为：Pass
+
+2019-12-04 18:40:39,247 - [test_03_recharge.py-->line:111] - INFO: 充值成功-2位小数,执行的结果为：Pass
+
+2019-12-04 18:40:40,741 - [test_03_recharge.py-->line:111] - INFO: 充值成功-50万,执行的结果为：Pass
+
+2019-12-04 18:40:41,945 - [test_03_recharge.py-->line:111] - INFO: 会员id为空,执行的结果为：Pass
+
+2019-12-04 18:40:43,183 - [test_03_recharge.py-->line:100] - ERROR: 会员id不存在,执行的结果为：Fail
+具体异常为1001 != 1007 : 会员id不存在
+
+2019-12-04 18:40:44,620 - [test_03_recharge.py-->line:100] - ERROR: 会员id为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 会员id为字符串
+
+2019-12-04 18:40:46,174 - [test_03_recharge.py-->line:111] - INFO: 会员id为小数,执行的结果为：Pass
+
+2019-12-04 18:40:47,401 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为0,执行的结果为：Fail
+具体异常为2 != 0 : 充值金额为0
+
+2019-12-04 18:40:48,448 - [test_03_recharge.py-->line:111] - INFO: 充值金额为负数,执行的结果为：Pass
+
+2019-12-04 18:40:49,386 - [test_03_recharge.py-->line:100] - ERROR: 充值金额为空,执行的结果为：Fail
+具体异常为1 != 2 : 充值金额为空
+
+2019-12-04 18:40:50,802 - [test_03_recharge.py-->line:111] - INFO: 充值金额-3位小数,执行的结果为：Pass
+
+2019-12-04 18:40:51,499 - [test_03_recharge.py-->line:111] - INFO: 充值金额-大于50万,执行的结果为：Pass
+
+2019-12-04 18:40:52,247 - [test_03_recharge.py-->line:111] - INFO: 充值金额-非数字,执行的结果为：Pass
+
+2019-12-04 18:40:53,099 - [test_04_add.py-->line:96] - INFO: 不登录-加标,执行的结果为：Pass
+
+2019-12-04 18:40:53,800 - [test_04_add.py-->line:96] - INFO: 正常登录,执行的结果为：Pass
+
+2019-12-04 18:40:54,513 - [test_04_add.py-->line:96] - INFO: 加标成功,执行的结果为：Pass
+
+2019-12-04 18:40:55,215 - [test_04_add.py-->line:96] - INFO: 借款人id为空,执行的结果为：Pass
+
+2019-12-04 18:40:55,915 - [test_04_add.py-->line:96] - INFO: 标题为空,执行的结果为：Pass
+
+2019-12-04 18:40:56,582 - [test_04_add.py-->line:96] - INFO: 借款金额为空,执行的结果为：Pass
+
+2019-12-04 18:40:57,552 - [test_04_add.py-->line:96] - INFO: 年利率为空,执行的结果为：Pass
+
+2019-12-04 18:40:58,307 - [test_04_add.py-->line:96] - INFO: 借款期限为空,执行的结果为：Pass
+
+2019-12-04 18:40:59,191 - [test_04_add.py-->line:77] - ERROR: 借款期限为字符串,执行的结果为：Fail
+具体异常为2 != 0 : 借款期限为字符串
+
+2019-12-04 18:40:59,995 - [test_04_add.py-->line:96] - INFO: 借款期限类型为空,执行的结果为：Pass
+
+2019-12-04 18:41:00,750 - [test_04_add.py-->line:96] - INFO: 竞标天数为空,执行的结果为：Pass
+
+2019-12-04 18:41:01,472 - [test_04_add.py-->line:96] - INFO: 借款人id为负数,执行的结果为：Pass
+
+2019-12-04 18:41:02,240 - [test_04_add.py-->line:96] - INFO: 借款人id为小数,执行的结果为：Pass
+
+2019-12-04 18:41:03,182 - [test_04_add.py-->line:96] - INFO: 借款人id不存在,执行的结果为：Pass
+
+2019-12-04 18:41:03,947 - [test_04_add.py-->line:96] - INFO: 借款金额为负数,执行的结果为：Pass
+
+2019-12-04 18:41:04,595 - [test_04_add.py-->line:96] - INFO: 借款金额为小数,执行的结果为：Pass
+
+2019-12-04 18:41:05,411 - [test_05_invest.py-->line:112] - INFO: 借款人正常登录,执行的结果为：Pass
+
+2019-12-04 18:41:06,484 - [test_05_invest.py-->line:112] - INFO: 借款人加标,执行的结果为：Pass
+
+2019-12-04 18:41:07,258 - [test_05_invest.py-->line:112] - INFO: 管理员正常登录,执行的结果为：Pass
+
+2019-12-04 18:41:07,926 - [test_05_invest.py-->line:112] - INFO: 管理员审核,执行的结果为：Pass
+
+2019-12-04 18:41:08,683 - [test_05_invest.py-->line:112] - INFO: 投资人正常登录,执行的结果为：Pass
+
+2019-12-04 18:41:09,455 - [test_05_invest.py-->line:112] - INFO: 投资人正常投资,执行的结果为：Pass
+
+2019-12-04 18:41:10,149 - [test_05_invest.py-->line:112] - INFO: 投资人id为空,执行的结果为：Pass
+
+2019-12-04 18:41:10,787 - [test_05_invest.py-->line:112] - INFO: 标id为空,执行的结果为：Pass
+
+2019-12-04 18:41:11,501 - [test_05_invest.py-->line:112] - INFO: 投资金额为空,执行的结果为：Pass
+
+2019-12-04 18:41:12,366 - [test_05_invest.py-->line:112] - INFO: 投资人id为负数,执行的结果为：Pass
+
+2019-12-04 18:41:13,168 - [test_05_invest.py-->line:112] - INFO: 投资人id为字符串,执行的结果为：Pass
+
+2019-12-04 18:41:14,132 - [test_05_invest.py-->line:112] - INFO: 标id为负数,执行的结果为：Pass
+
+2019-12-04 18:41:14,755 - [test_05_invest.py-->line:112] - INFO: 标id为字符串,执行的结果为：Pass
+
+2019-12-04 18:41:15,507 - [test_05_invest.py-->line:112] - INFO: 投资金额为负数,执行的结果为：Pass
+
+2019-12-04 18:41:16,203 - [test_05_invest.py-->line:112] - INFO: 投资金额为不能被100整除的数,执行的结果为：Pass
+
+2019-12-04 18:41:16,888 - [test_05_invest.py-->line:112] - INFO: 投资人id不存在,执行的结果为：Pass
+
+2019-12-04 18:41:17,685 - [test_05_invest.py-->line:112] - INFO: 标id不存在,执行的结果为：Pass
+
+2019-12-04 18:41:18,515 - [test_05_invest.py-->line:112] - INFO: 投资金额大于项目的剩余可投金额,执行的结果为：Pass
+
+2021-01-11 11:29:47,529 - [test_01_register.py-->line:81] - INFO: 成功注册-完整,执行的结果为：Pass
+
+2021-01-11 11:29:48,426 - [test_01_register.py-->line:81] - INFO: 成功注册-无昵称,执行的结果为：Pass
+
+2021-01-11 11:29:49,195 - [test_01_register.py-->line:81] - INFO: 成功注册-昵称超过10位,执行的结果为：Pass
+
+2021-01-11 11:29:50,343 - [test_01_register.py-->line:81] - INFO: 密码为空,执行的结果为：Pass
+
+2021-01-11 11:29:50,984 - [test_01_register.py-->line:81] - INFO: 手机号为空,执行的结果为：Pass
+
+2021-01-11 11:29:51,637 - [test_01_register.py-->line:81] - INFO: 手机号不足11位,执行的结果为：Pass
+
